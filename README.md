@@ -1,4 +1,4 @@
-<img width="375" height="370" alt="image" src="https://github.com/user-attachments/assets/f430d06f-1bef-4f21-9e42-926a9fcdb20b" /># 面包售卖管理系统
+# 面包售卖管理系统
 
 基于 SpringBoot + Vue 开发的 B/S 架构烘焙门店数字化管理系统，覆盖商品管理、库存管控、销售收银、会员营销、经营分析全流程，解决中小型面包店手工记账效率低、库存损耗高、数据难追溯等痛点。
 
