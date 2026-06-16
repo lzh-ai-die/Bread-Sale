@@ -66,3 +66,21 @@
 ## 🗄 数据库设计
 核心数据表：
 <img width="375" height="370" alt="image" src="https://github.com/user-attachments/assets/3d0a5a5a-4083-4302-829e-b78dabcba9e6" />
+
+## 🚀 本地运行
+### 环境要求
+- JDK 1.8+
+- Node.js 14+
+- MySQL 8.0+
+- Maven 3.6+
+
+## 📸 项目截图
+<img width="1181" height="573" alt="注册页面设计" src="https://github.com/user-attachments/assets/efb1cd19-6d87-49b2-a2bc-271636d900b8" />
+<img width="1210" height="621" alt="首页设计" src="https://github.com/user-attachments/assets/2036d389-938a-4f6f-916c-709eecaaee41" />
+<img width="1135" height="494" alt="商品详细页面设计" src="https://github.com/user-attachments/assets/0df1226e-e918-447a-8bb6-f9a375934818" />
+<img width="659" height="456" alt="我的订单页面设计" src="https://github.com/user-attachments/assets/fc426f96-01d9-41c3-bbf9-b385f221c3de" />
+<img width="1091" height="436" alt="支付页面设计" src="https://github.com/user-attachments/assets/226bd98a-d8fa-403e-bfd1-11603df68f77" />
+<img width="659" height="323" alt="购物车设计" src="https://github.com/user-attachments/assets/6d3d7d7e-83c4-4f39-a7f0-16b96b2c80b2" />
+<img width="938" height="596" alt="销量排行" src="https://github.com/user-attachments/assets/32dab24a-bf83-4082-aa23-b9f5a645a9a0" />
+
+
